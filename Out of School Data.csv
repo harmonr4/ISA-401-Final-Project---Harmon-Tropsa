@@ -1,0 +1,377 @@
+Age,Data Source,Destination,Disability,Education Level,Grade,Immigration Status,Indicator,Origin,Reference Area,Residence,School Subject ,Sex,Socioeconomic Background,State or Province,Time Period,Type Of Institution,Unit Measure,Wealth Quintile,Obs Value
+Total,UIS,Total,Total,Lower secondary,Last grade,Total,4.1.3 Gross intake ratio,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,104.85226
+Total,UIS,Total,Total,Lower secondary,Last grade,Total,4.1.3 Gross intake ratio,Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,103.38417
+Total,UIS,Total,Total,Lower secondary,Last grade,Total,4.1.3 Gross intake ratio,Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,103.40846
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2010,Total,%,Total,98.3296182
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,98.55
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,98.78230536
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,98.81310272
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,98.86367035
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2010,Total,%,Total,98.71274272
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2013,Total,%,Total,98.66
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,98.9879788
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,98.97380829
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,98.98222351
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2010,Total,%,Total,97.96419678
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2013,Total,%,Total,98.43
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,98.58526483
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,98.65811157
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,98.75102234
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Both sexes,Total,,2010,Total,%,Total,1.683556952
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,1.866046511
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,1.959913969
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,1.978635788
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Female,Total,,2010,Total,%,Total,1.620675412
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,1.980837837
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,1.953661442
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,1.90308094
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Male,Total,,2010,Total,%,Total,1.742721651
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,1.755947191
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,1.965856552
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,2.049690485
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,5.0836
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,4.44745
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,4.12716
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,3.98864
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,4.1748
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,4.31262
+Total,UIS,Total,Total,Lower secondary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,4.20424
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,100.82308
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,99.58451
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,99.8482
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,100.5729
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,101.94135
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,102.31503
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,102.06858
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,102.3674
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2005,Total,%,Total,100.04111
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2013,Total,%,Total,98.75594
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2014,Total,%,Total,99.94119
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,100.70439
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,99.6492
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,101.58937
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2018,Total,%,Total,101.49129
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2019,Total,%,Total,102.05506
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2005,Total,%,Total,101.5678
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2013,Total,%,Total,100.37542
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2014,Total,%,Total,99.75934
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,100.4468
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,104.1435
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,103.01217
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2018,Total,%,Total,102.62277
+Total,UIS,Total,Total,Lower secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2019,Total,%,Total,102.66682
+Total,UIS,Total,Total,Lower secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,98.85082
+Total,UIS,Total,Total,Lower secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,98.63796
+Total,UIS,Total,Total,Lower secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,97.76647
+Total,UIS,Total,Total,Lower secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,99.15387
+Total,UIS,Total,Total,Lower secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,99.69572
+Total,UIS,Total,Total,Lower secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,99.79625
+Total,UIS,Total,Total,Lower secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,99.68881
+Total,UIS,Total,Total,Lower secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,99.53956
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2010,Total,%,Total,86.48120915
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,86.22974742
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,100
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,100
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Female,Total,,2010,Total,%,Total,86.5642721
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,86.57922717
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,100
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,100
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Male,Total,,2010,Total,%,Total,86.39958706
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,85.8947152
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,100
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net attendance rate (one year before the official primary entry age),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,100
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net enrolment rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,93.14037
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net enrolment rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,90.01836
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net enrolment rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,90.33312
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net enrolment rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,91.04018
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net enrolment rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,91.20034
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net enrolment rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,90.46672
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net enrolment rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,89.9779
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.2 Adjusted net enrolment rate (one year before the official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,89.7832
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.4 Gross enrolment ratio (early childhood and pre-primary),Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,70.51733
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.4 Gross enrolment ratio (early childhood and pre-primary),Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,71.52396
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.4 Gross enrolment ratio (early childhood and pre-primary),Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,64.78294
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.4 Gross enrolment ratio (early childhood and pre-primary),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,72.02736
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.4 Gross enrolment ratio (early childhood and pre-primary),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,71.93737
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.4 Gross enrolment ratio (early childhood and pre-primary),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,72.93408
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.4 Gross enrolment ratio (early childhood and pre-primary),Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,72.14592
+Total,UIS,Total,Total,Pre-primary,Total,Total,4.2.4 Gross enrolment ratio (early childhood and pre-primary),Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,72.21417
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2002,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2003,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2004,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2005,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2006,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2007,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2008,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2009,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2010,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2011,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2012,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2013,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2014,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2015,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2016,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2017,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2018,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2019,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2020,Total,Number,Total,1
+Total,UIS,Total,Total,Pre-primary,Total,Total,Number of years of free pre-primary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2021,Total,Number,Total,1
+Total,UIS,Total,Total,Primary,Last grade,Total,4.1.3 Gross intake ratio,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,98.8322
+Total,UIS,Total,Total,Primary,Last grade,Total,4.1.3 Gross intake ratio,Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,100.0927
+Total,UIS,Total,Total,Primary,Last grade,Total,4.1.3 Gross intake ratio,Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,100.48905
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2010,Total,%,Total,99.67774421
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,99.34
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,99.66953668
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,99.68894959
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,99.70259857
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2010,Total,%,Total,99.70824042
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2013,Total,%,Total,99.44
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,99.69938298
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,99.73226166
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,99.75880432
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2010,Total,%,Total,99.64922636
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2013,Total,%,Total,99.24
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,99.64117172
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,99.64816284
+Total,UIS,Total,Total,Primary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,99.65015411
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,0.56519
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,2.89807
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,1.80586
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,0.35997
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,0.42438
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,0.57421
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,0.91657
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2005,Total,%,Total,0.26888
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2013,Total,%,Total,3.1411
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,1.91738
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,0.43096
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2018,Total,%,Total,0.63568
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2019,Total,%,Total,0.84899
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2005,Total,%,Total,0.8478
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2013,Total,%,Total,2.66526
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,1.69895
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,0.29188
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2018,Total,%,Total,0.51532
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2019,Total,%,Total,0.98131
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Both sexes,Total,,2010,Total,%,Total,1.971327316
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,2.097105208
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Female,Total,,2010,Total,%,Total,1.965580957
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,2.078188072
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Male,Total,,2010,Total,%,Total,1.97683212
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,2.115230755
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,9.66688
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,8.95982
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,8.79966
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,9.53328
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,10.0221
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,10.2168
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Female,Total,,2014,Total,%,Total,10.20127
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,9.77934
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,7.82401
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,9.09457
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Female,Total,,2018,Total,%,Total,8.23831
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Female,Total,,2019,Total,%,Total,10.04913
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Male,Total,,2014,Total,%,Total,9.15489
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,8.1728
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,9.73517
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,9.952
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Male,Total,,2018,Total,%,Total,11.7291
+Total,UIS,Total,Total,Primary,Total,Total,4.1.4 Out-of-school rate (one year before official primary entry age),Total,United States,Total,Total,Male,Total,,2019,Total,%,Total,10.37724
+Total,UIS,Total,Total,Primary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,3.35084
+Total,UIS,Total,Total,Primary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,2.85177
+Total,UIS,Total,Total,Primary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,3.52613
+Total,UIS,Total,Total,Primary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,3.16721
+Total,UIS,Total,Total,Primary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,3.3304
+Total,UIS,Total,Total,Primary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,3.53555
+Total,UIS,Total,Total,Primary,Total,Total,4.1.5 Percentage of pupils who are at least 2 years over-age for their current grade,Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,3.55905
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,101.87402
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,99.45544
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,99.67338
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,100.29991
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,101.36286
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,101.82144
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,101.25656
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,100.9813
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2005,Total,%,Total,101.3106
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2013,Total,%,Total,99.03338
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2014,Total,%,Total,99.50208
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,100.28726
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,101.27641
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,101.422
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2018,Total,%,Total,101.19637
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2019,Total,%,Total,101.34374
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2005,Total,%,Total,102.41138
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2013,Total,%,Total,99.85975
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2014,Total,%,Total,99.83744
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,100.31204
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,101.44578
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,102.20446
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2018,Total,%,Total,101.31424
+Total,UIS,Total,Total,Primary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2019,Total,%,Total,100.63408
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2002,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2003,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2004,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2005,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2006,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2007,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2008,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2009,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2010,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2011,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2012,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2013,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2014,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2015,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2016,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2017,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2018,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2019,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2020,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of compulsory primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2021,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2002,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2003,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2004,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2005,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2006,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2007,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2008,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2009,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2010,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2011,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2012,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2013,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2014,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2015,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2016,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2017,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2018,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2019,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2020,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Number of years of free primary and secondary education guaranteed in legal frameworks,Total,United States,Total,Total,Both sexes,Total,,2021,Total,Number,Total,12
+Total,UIS,Total,Total,Primary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,99.43481
+Total,UIS,Total,Total,Primary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,97.10193
+Total,UIS,Total,Total,Primary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,97.97434
+Total,UIS,Total,Total,Primary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,98.19414
+Total,UIS,Total,Total,Primary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,99.64003
+Total,UIS,Total,Total,Primary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,99.57562
+Total,UIS,Total,Total,Primary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,99.42579
+Total,UIS,Total,Total,Primary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,99.08343
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2005,Total,%,Total,95.94848
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2013,Total,%,Total,96.30906
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2014,Total,%,Total,97.51305
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,98.17358
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,98.47471
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,98.69556
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2018,Total,%,Total,98.79606
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2019,Total,%,Total,99.18945
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2005,Total,%,Total,94.20211
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2013,Total,%,Total,96.06963
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2014,Total,%,Total,96.36253
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,97.15372
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,99.05283
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,99.19852
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2018,Total,%,Total,99.73566
+Total,UIS,Total,Total,Secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2019,Total,%,Total,100.90212
+Total,UIS,Total,Total,Tertiary,Total,Total,4.3.2 Gross enrolment ratio (tertiary),Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,80.63483
+Total,UIS,Total,Total,Tertiary,Total,Total,4.3.2 Gross enrolment ratio (tertiary),Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,88.72642
+Total,UIS,Total,Total,Tertiary,Total,Total,4.3.2 Gross enrolment ratio (tertiary),Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,88.62687
+Total,UIS,Total,Total,Tertiary,Total,Total,4.3.2 Gross enrolment ratio (tertiary),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,88.88941
+Total,UIS,Total,Total,Tertiary,Total,Total,4.3.2 Gross enrolment ratio (tertiary),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,88.83505
+Total,UIS,Total,Total,Tertiary,Total,Total,4.3.2 Gross enrolment ratio (tertiary),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,88.16739
+Total,UIS,Total,Total,Tertiary,Total,Total,4.3.2 Gross enrolment ratio (tertiary),Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,88.29918
+Total,UIS,Total,Total,Tertiary,Total,Total,4.3.2 Gross enrolment ratio (tertiary),Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,87.88871
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2010,Total,%,Total,90.11853338
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,91.55
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,92.98905088
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,93.70478058
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,94.27458191
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2010,Total,%,Total,92.11394964
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2013,Total,%,Total,93.01
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,94.30617959
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,94.85169983
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,95.22626495
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2010,Total,%,Total,88.20975569
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2013,Total,%,Total,90.14
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,91.74173761
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,92.61862946
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.2 Completion rate (admin data),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,93.36330414
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,8.56354
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,7.91728
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,6.79907
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,6.07613
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,4.72861
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,4.78814
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,3.59717
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,3.75075
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2005,Total,%,Total,6.79949
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2013,Total,%,Total,7.5424
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2014,Total,%,Total,6.27499
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,4.94821
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,4.78598
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,4.67297
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2018,Total,%,Total,3.44936
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Female,Total,,2019,Total,%,Total,4.94948
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2005,Total,%,Total,10.23177
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2013,Total,%,Total,8.27429
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2014,Total,%,Total,7.29922
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,7.15423
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,4.67377
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,4.89834
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2018,Total,%,Total,3.7389
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate,Total,United States,Total,Total,Male,Total,,2019,Total,%,Total,2.59924
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Both sexes,Total,,2010,Total,%,Total,3.518021866
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,3.247276241
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,8.238142967
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,8.322132111
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Female,Total,,2010,Total,%,Total,3.196466842
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,3.173877148
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,7.617825508
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,7.470578194
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Male,Total,,2010,Total,%,Total,3.819963978
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,3.317063336
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,8.825522423
+Total,UIS,Total,Total,Upper secondary,Total,Total,4.1.4 Out-of-school rate (household survey data),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,9.122067452
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,89.09657
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,92.80168
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,93.99472
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,94.74373
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,95.66578
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,95.66992
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,96.52755
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,97.76347
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2005,Total,%,Total,91.70917
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2013,Total,%,Total,93.86874
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2014,Total,%,Total,95.07818
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2015,Total,%,Total,95.64856
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2016,Total,%,Total,97.3222
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2017,Total,%,Total,95.86488
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2018,Total,%,Total,96.14278
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Female,Total,,2019,Total,%,Total,96.33181
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2005,Total,%,Total,86.62588
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2013,Total,%,Total,91.78553
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2014,Total,%,Total,92.96072
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2015,Total,%,Total,93.87887
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2016,Total,%,Total,94.08237
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2017,Total,%,Total,95.4834
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2018,Total,%,Total,96.89652
+Total,UIS,Total,Total,Upper secondary,Total,Total,Gross enrolment ratio (primary to upper secondary),Total,United States,Total,Total,Male,Total,,2019,Total,%,Total,99.13872
+Total,UIS,Total,Total,Upper secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2005,Total,%,Total,91.43646
+Total,UIS,Total,Total,Upper secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2013,Total,%,Total,92.08272
+Total,UIS,Total,Total,Upper secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2014,Total,%,Total,93.20093
+Total,UIS,Total,Total,Upper secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,93.92387
+Total,UIS,Total,Total,Upper secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,95.27139
+Total,UIS,Total,Total,Upper secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,95.21186
+Total,UIS,Total,Total,Upper secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2018,Total,%,Total,96.40283
+Total,UIS,Total,Total,Upper secondary,Total,Total,Total net enrolment rate,Total,United States,Total,Total,Both sexes,Total,,2019,Total,%,Total,96.24925
+Total,"United States of America American Community Survey 2010. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Lower secondary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2010,Total,%,Total,98.31644
+Total,"United States of America American Community Survey 2010. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Primary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2010,Total,%,Total,98.02867
+Total,"United States of America American Community Survey 2010. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Upper secondary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2010,Total,%,Total,96.48198
+Total,"United States of America American Community Survey 2015. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Lower secondary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,98.13395
+Total,"United States of America American Community Survey 2015. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Primary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,97.90289
+Total,"United States of America American Community Survey 2015. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Upper secondary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2015,Total,%,Total,96.75272
+Total,"United States of America American Community Survey 2016. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Lower secondary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,98.04008
+Total,"United States of America American Community Survey 2016. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Primary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,100
+Total,"United States of America American Community Survey 2016. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Upper secondary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2016,Total,%,Total,91.76186
+Total,"United States of America American Community Survey 2017. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Lower secondary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,98.02136
+Total,"United States of America American Community Survey 2017. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Primary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,100
+Total,"United States of America American Community Survey 2017. IPUMS-USA, University of Minnesota. The survey collected data on school attendance and educational attainment for age 3 and above.",Total,Total,Upper secondary,Total,Total,Total net attendance rate,Total,United States,Total,Total,Both sexes,Total,,2017,Total,%,Total,91.67787
